@@ -1,0 +1,14 @@
+LogIn
+
+
+
+npm cypress install --forced
+
+npm install -g npx
+
+Npx
+
+node_modules\.bin\cypress open
+
+npx cypress open
+
